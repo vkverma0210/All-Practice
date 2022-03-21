@@ -2,12 +2,6 @@
 
 using namespace std;
 
-#define FASTIO                        \
-    ios_base::sync_with_stdio(false); \
-    cin.tie(NULL);                    \
-    cout.tie(NULL);
-#define PRECISION std::cout << std::fixed << std::setprecision(20);
-
 #define res cout << "Case #" << curr << ": "
 
 int main()
