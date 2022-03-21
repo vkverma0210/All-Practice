@@ -2,38 +2,34 @@
 
 using namespace std;
 
-vector<long> multipleOf9()
-{
-    vector<long> vec(10000000);
-    long j = 1;
-
-    for (int i = 0; i < vec.size(); i++)
-    {
-        long temp = 9 * j;
-        vec.push_back(temp);
-        j++;
-    }
-
-    return vec;
-}
-
 int main()
 {
-    vector<long> vec = multipleOf9();
     int t;
     cin >> t;
 
     for (int i = 1; i <= t; i++)
     {
-        int n;
+        string n;
         cin >> n;
 
-        if (n % 9)
+        int rem = 0;
+
+        for (char c : n)
         {
-            cout << "Case #" << i << ": " << n << endl;
+            rem = (rem + (c - '0')) % 9;
         }
-        else
+
+        int d = (9 - rem) % 9;
+        int pos = (d == 0 ? 1 : 0);
+
+        while (pos < n.size() && n[pos] - '0' <= d)
         {
+            pos++;
         }
+
+        n.insert(n.begin() + pos, (char)(d + '0'));
+        cout << "Case #" << i << ": " << n << "\n";
     }
+
+    return 0;
 }

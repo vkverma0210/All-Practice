@@ -2,37 +2,50 @@
 
 using namespace std;
 
+#define FASTIO                        \
+    ios_base::sync_with_stdio(false); \
+    cin.tie(NULL);                    \
+    cout.tie(NULL);
+#define PRECISION std::cout << std::fixed << std::setprecision(20);
+
+#define res cout << "Case #" << curr << ": "
+
 int main()
 {
+
     int t;
     cin >> t;
-    cin.get();
 
-    for (int x = 1; x <= t; x++)
+    for (int curr = 1; curr <= t; curr++)
     {
-        string i;
-        getline(cin, i);
-        string s;
-        getline(cin, s);
-        bool flag = true;
-        for (int j = 0; j < i.length(); j++)
+        string i, s;
+        cin >> i >> s;
+
+        int p1 = 0, p2 = 0;
+        int ans = 0;
+        while (p1 < i.length() && p2 < s.length())
         {
-            char c = i[j];
-            int pos = s.find(c);
-            if (pos != s.length() and pos != -1)
+            if (i[p1] == s[p2])
             {
-                s.erase(pos, 1);
+                p1++;
+                p2++;
             }
             else
             {
-                cout << "Case #" << x << ": IMPOSSIBLE" << endl;
-                flag = false;
-                break;
+                p2++;
+                ans++;
             }
         }
 
-        if (flag == true)
-            cout << "Case #" << x << ": " << s.length() << endl;
+        if (p1 != i.length())
+        {
+            res << "IMPOSSIBLE\n";
+        }
+        else
+        {
+            ans += s.length() - p2;
+            res << ans << endl;
+        }
     }
 
     return 0;
