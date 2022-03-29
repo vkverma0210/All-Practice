@@ -14,7 +14,7 @@ int main()
         if (str[i] == str[i - 1])
         {
             count++;
-            
+
             if (count == 7)
             {
                 cout << "YES \n";
