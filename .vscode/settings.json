@@ -74,5 +74,9 @@
     "C_Cpp.errorSquiggles": "Disabled",
     "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
         "clang-diagnostic-error"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\Java\\jdk-18.0.1.1\\lib\\jrt-fs.jar"
     ]
 }
