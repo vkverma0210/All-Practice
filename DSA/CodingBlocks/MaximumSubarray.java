@@ -29,6 +29,5 @@ public class MaximumSubarray {
         System.out.println(ans);
 
         scr.close();
-
     }
 }
