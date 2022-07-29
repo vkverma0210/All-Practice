@@ -7,6 +7,10 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
+	<!-- load properties file: sport.properties -->
+	<context:property-placeholder
+		location="classpath:sport.properties" />
+
 	<!-- Define your beans here -->
 	<bean id="myLoggerConfig"
 		class="com.vinay.springdemo.MyLoggerConfig" init-method="initLogger">
@@ -14,7 +18,24 @@
 		<property name="printedLoggerLevel" value="FINE" />
 	</bean>
 
-	<bean id="myFootballCoach"
-		class="com.vinay.springdemo.FootballCoach">
+	<!-- Define the dependency -->
+	<bean id="myFortuneService"
+		class="com.vinay.springdemo.HappyFortuneService"></bean>
+
+	<bean id="myCoach" class="com.vinay.springdemo.TrackCoach">
+
+		<!-- set up constructor injection -->
+		<constructor-arg ref="myFortuneService" />
+	</bean>
+
+	<bean id="myCricketCoach"
+		class="com.vinay.springdemo.CricketCoach">
+
+		<!-- set up setter injection -->
+		<property name="fortuneService" ref="myFortuneService" />
+
+		<!-- inject literal value -->
+		<property name="emailAddress" value="${foo.email}" />
+		<property name="team" value="${foo.team}" />
 	</bean>
 </beans>
