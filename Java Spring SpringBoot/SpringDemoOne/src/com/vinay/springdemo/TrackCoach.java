@@ -1,6 +1,8 @@
 package com.vinay.springdemo;
 
-public class TrackCoach implements Coach {
+import org.springframework.beans.factory.DisposableBean;
+
+public class TrackCoach implements Coach, DisposableBean {
 	// Define a private field
 	private FortuneService fortuneService;
 
@@ -29,7 +31,7 @@ public class TrackCoach implements Coach {
 	}
 
 	// add a destroy method
-	public void doMyCleanupStuff() {
+	public void destroy() throws Exception {
 		System.out.println("TrackCoach: inside method doMyCLeanupStuff");
 	}
 }
