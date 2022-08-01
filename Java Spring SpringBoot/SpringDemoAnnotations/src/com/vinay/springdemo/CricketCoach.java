@@ -10,4 +10,10 @@ public class CricketCoach implements Coach {
 		return "Practice Batting for 2 hrs...!";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
