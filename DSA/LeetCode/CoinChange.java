@@ -27,9 +27,7 @@ public class CoinChange {
             }
         }
 
-        dp[amount] = ans;
-
-        return dp[amount];
+        return dp[amount] = ans;
     }
 
     public static int coinChange(int[] coins, int amount) {
