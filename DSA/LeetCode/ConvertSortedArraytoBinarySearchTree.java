@@ -49,8 +49,8 @@ public class ConvertSortedArraytoBinarySearchTree {
             return;
         }
 
-        preorder(node.left);
         System.out.print(node.val + " ");
+        preorder(node.left);
         preorder(node.right);
     }
 
