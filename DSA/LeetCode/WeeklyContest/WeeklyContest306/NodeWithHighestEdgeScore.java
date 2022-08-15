@@ -4,7 +4,7 @@ public class NodeWithHighestEdgeScore {
     public static int edgeScore(int[] edges) {
         int n = edges.length;
 
-        int[] scoreOfNode = new int[n];
+        long[] scoreOfNode = new long[n];
 
         for (int i = 0; i < n; i++) {
             scoreOfNode[edges[i]] += i;
