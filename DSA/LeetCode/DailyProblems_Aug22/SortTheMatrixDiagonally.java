@@ -5,7 +5,7 @@ import java.util.SortedMap;
 import java.util.TreeMap;
 
 public class SortTheMatrixDiagonally {
-    public static int[][] diagonalSort1(int[][] mat) {
+    public static int[][] diagonalSort(int[][] mat) {
         HashMap<Integer, PriorityQueue<Integer>> map = new HashMap<Integer, PriorityQueue<Integer>>();
 
         for (int i = 0; i < mat.length; i++) {
