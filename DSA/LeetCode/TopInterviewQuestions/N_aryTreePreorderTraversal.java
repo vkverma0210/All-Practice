@@ -4,8 +4,6 @@ import java.util.List;
 import java.util.Stack;
 import java.util.Vector;
 
-import javax.naming.spi.DirStateFactory.Result;
-
 public class N_aryTreePreorderTraversal {
     static class Node {
         public int val;
