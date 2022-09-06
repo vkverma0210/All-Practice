@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class MaximumRowsCoveredbyColumns {
-    public int maximumRows(int[][] mat, int cols) {
+    public static int maximumRows(int[][] mat, int cols) {
 
         int m = mat.length;
         int n = mat[0].length;
@@ -11,7 +11,7 @@ public class MaximumRowsCoveredbyColumns {
         return f(0, m, n, cols, mat, s);
     }
 
-    public int f(int ind, int m, int n, int cols, int[][] mat, int[] s) {
+    public static int f(int ind, int m, int n, int cols, int[][] mat, int[] s) {
 
         if (cols == 0) {
             int count = 0;
