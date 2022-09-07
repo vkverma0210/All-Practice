@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class BurstBalloons {
     private static int burstBalloons(int[] nums, int beg, int end, Integer[][] dp) {
         if (beg < 0 || end < 0 || beg >= nums.length || end >= nums.length)
