@@ -23,7 +23,7 @@ public class BestTimeToBuyAndSellStock {
         Scanner scr = new Scanner(System.in);
 
         int n = scr.nextInt();
-
+ 
         int[] prices = new int[n];
 
         for (int i = 0; i < n; i++) {
