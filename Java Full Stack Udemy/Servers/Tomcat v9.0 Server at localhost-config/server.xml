@@ -152,7 +152,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="Hello_JSP" path="/Hello_JSP" reloadable="true" source="org.eclipse.jst.jee.server:Hello_JSP"/><Context docBase="S01L14 - Reading URL Parameter" path="/Reading_URL_Parameter" reloadable="true" source="org.eclipse.jst.jee.server:S01L14 - Reading URL Parameter"/></Host>
+      <Context docBase="Hello_JSP" path="/Hello_JSP" reloadable="true" source="org.eclipse.jst.jee.server:Hello_JSP"/><Context docBase="S01L14 - Reading URL Parameter" path="/Reading_URL_Parameter" reloadable="true" source="org.eclipse.jst.jee.server:S01L14 - Reading URL Parameter"/><Context docBase="S01L15 - Include files in JSP Page" path="/S01L15_-_Include_files_in_JSP_Page" reloadable="true" source="org.eclipse.jst.jee.server:S01L15 - Include files in JSP Page"/><Context docBase="S01L16 - Import Class into JSP Page" path="/Import_Class_into_JSP_Page" reloadable="true" source="org.eclipse.jst.jee.server:S01L16 - Import Class into JSP Page"/><Context docBase="S01L17 - Forward and redirect under JSP" path="/S01L17_-_Forward_and_redirect_under_JSP" reloadable="true" source="org.eclipse.jst.jee.server:S01L17 - Forward and redirect under JSP"/></Host>
     </Engine>
   </Service>
 </Server>
