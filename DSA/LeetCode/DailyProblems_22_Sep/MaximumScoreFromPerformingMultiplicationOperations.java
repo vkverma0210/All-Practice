@@ -49,5 +49,4 @@ public class MaximumScoreFromPerformingMultiplicationOperations {
 
         scr.close();
     }
-
 }
