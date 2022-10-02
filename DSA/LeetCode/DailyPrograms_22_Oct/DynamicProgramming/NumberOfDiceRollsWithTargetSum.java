@@ -123,7 +123,7 @@ public class NumberOfDiceRollsWithTargetSum {
                 curr[j] = ans;
             }
 
-            prev = curr;
+            prev = curr.clone();
         }
 
         return prev[target];
