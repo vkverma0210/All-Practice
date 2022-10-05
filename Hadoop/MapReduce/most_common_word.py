@@ -1,5 +1,8 @@
 from mrjob.job import MRJob
 from mrjob.step import MRStep
+import re
+
+WORD_RE = re.compile(r"[\w']+")
 
 
 class MRMostUsedWord(MRJob):
@@ -9,11 +12,10 @@ class MRMostUsedWord(MRJob):
             MRStep(mapper=self.mapper_get_words,
                    reducer=self.reducer_count_words),
             MRStep(reducer=self.reducer_find_max_word)
-		]
+        ]
 
     def mapper_get_words(self, _, line):
-        words = line.split()
-        for word in words:
+        for word in WORD_RE.findall(line):
             yield (word.lower(), 1)		# Make a key(word) value(1) pair
 
     def reducer_count_words(self, word, counts):
