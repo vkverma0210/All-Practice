@@ -3,26 +3,43 @@ import java.util.Scanner;
 
 public class RemoveLetterToEqualizeFrequency {
     public static boolean equalFrequency(String word) {
-        HashMap<Character, Integer> hs = new HashMap<>();
+        int len = word.length();
+        int[] count = new int[26];
 
-        for (char c : word.toCharArray()) {
-            hs.put(c, hs.getOrDefault(c, 0) + 1);
+        for (int i = 0; i < len; i++) {
+            char c = word.charAt(i);
+            count[c - 'a']++;
         }
 
-        int min = Integer.MAX_VALUE;
-        int max = Integer.MIN_VALUE;
-        for (Integer a : hs.values()) {
-            min = Math.min(a, min);
-            max = Math.max(a, max);
+        for (int i = 0; i < len; i++) {
+            char c = word.charAt(i);
+            count[c - 'a']--;
+            if (checkEqualCount(count)) {
+                return true;
+            }
+
+            count[c - 'a']++;
         }
 
-        if ((max == min) &&(max - min) == 1) {
-            return true;
-        } else if ( {
-            return true;
-        } else {
-            return false;
+        return false;
+    }
+
+    private static boolean checkEqualCount(int[] count) {
+        int c = 0;
+
+        for (int i : count) {
+            if (i == 0) {
+                continue;
+            } else if (c == 0) {
+                c = i;
+            } else if (c == i) {
+                continue;
+            } else {
+                return false;
+            }
         }
+
+        return true;
     }
 
     public static void main(String[] args) {
