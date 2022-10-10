@@ -25,18 +25,14 @@ class LUPrefix {
 public class LongestUploadedPrefix {
     public static void main(String[] args) {
         Scanner scr = new Scanner(System.in);
-        int n = scr.nextInt();
-        String[] str = new String[n];
-        for (int i = 0; i < n; i++) {
-            str[i] = scr.next();
-        }
 
-        int[] video = new int[n];
-        for (int i = 0; i < n; i++) {
-            video[i] = scr.nextInt();
-        }
-
-        System.out.println(equalFrequency(s));
+        LUPrefix lu = new LUPrefix(4);
+        lu.upload(3);
+        System.out.println(lu.longest());
+        lu.upload(1);
+        System.out.println(lu.longest());
+        lu.upload(2);
+        System.out.println(lu.longest());
 
         scr.close();
     }
