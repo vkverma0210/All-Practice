@@ -26,7 +26,7 @@ public class CardRemoval {
         while (t != 0) {
             int n = scr.nextInt();
             int[] arr = new int[n];
-
+            String str = scr.next();
             for (int i = 0; i < n; i++) {
                 arr[i] = scr.nextInt();
             }
