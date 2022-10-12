@@ -2,20 +2,26 @@ import java.util.Scanner;
 
 public class YetAnotherPalindromeProblem {
     private static int solve(int[] arr, int n) {
-        int i = 0, j = n - 1;
-        int count = 0;
-        while (i <= j) {
-            if (arr[i] > arr[j]) {
-                return -1;
+        int[] ans = new int[n / 2];
+        int start = 0, end = n - 1;
+
+        for (int i = 0; i < n / 2; i++) {
+            if (arr[start + i] == arr[end - i]) {
+                ans[i] = 0;
+            } else if (arr[start + i] < arr[end - i]) {
+                ans[i] = arr[end - i] - arr[start + i];
             } else {
-                int temp = arr[j] - arr[i];
-                count = Math.max(count, temp);
-                i++;
-                j--;
+                ans[0] = -1;
+                break;
+            }
+
+            if (i != 0 && ans[i - 1] < ans[i]) {
+                ans[0] = -1;
+                break;
             }
         }
 
-        return count;
+        return ans[0];
     }
 
     public static void main(String[] args) {
