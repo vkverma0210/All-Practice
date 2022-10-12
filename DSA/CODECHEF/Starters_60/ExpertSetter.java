@@ -9,7 +9,7 @@ public class ExpertSetter {
             int x = scr.nextInt();
             int y = scr.nextInt();
 
-            if (x / 2 <= y) {
+            if (y * 2 >= x) {
                 System.out.println("YES");
             } else {
                 System.out.println("NO");
