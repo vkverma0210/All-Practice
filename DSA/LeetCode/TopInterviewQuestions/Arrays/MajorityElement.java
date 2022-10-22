@@ -4,7 +4,7 @@ public class MajorityElement {
     public static int majorityElement(int[] nums) {
         int majorityEle = nums[0], count = 1;
 
-        for (int i = 0; i < nums.length; i++) {
+        for (int i = 1; i < nums.length; i++) {
             if (count == 0) {
                 count++;
                 majorityEle = nums[i];
