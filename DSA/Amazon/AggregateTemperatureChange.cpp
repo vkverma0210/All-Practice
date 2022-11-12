@@ -26,7 +26,6 @@ long getMaxAggregateTemperatureChange(int n, int arr[])
     }
 
     reverse(arr2.begin(), arr2.end());
-
     vector<long> ans(n, 0);
 
     for (long x{}; x < n; x++)
