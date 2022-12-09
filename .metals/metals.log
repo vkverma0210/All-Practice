@@ -5,3 +5,1891 @@
 2022.12.08 22:44:32 WARN  Build server is not auto-connectable.
 2022.12.08 22:44:32 WARN  no build tool detected in workspace 'D:\Vinay Courses\All Practice'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2022.12.08 22:46:03 INFO  shutting down Metals
+2022.12.08 22:46:42 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Vinay Courses\All Practice\.metals\lsp.trace.json or C:\Users\vkver\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.08 22:46:44 INFO  logging to file D:\Vinay Courses\All Practice\.metals\metals.log
+2022.12.08 22:46:44 INFO  Started: Metals version 0.11.9 in workspace 'D:\Vinay Courses\All Practice' for client Visual Studio Code 1.74.0.
+2022.12.08 22:46:46 INFO  time: initialize in 2.4s
+2022.12.08 22:46:49 WARN  Build server is not auto-connectable.
+2022.12.08 22:46:49 WARN  no build tool detected in workspace 'D:\Vinay Courses\All Practice'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.08 22:46:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinarySearchTree\RangeSumOfBST.java
+2022.12.08 22:46:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:46:50 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:46:51 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:1: error: reached end of file while parsing
+class
+     ^
+1 error
+2022.12.08 22:46:51 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:1: error: reached end of file while parsing
+class
+     ^
+1 error
+2022.12.08 22:46:52 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinarySearchTree/RangeSumOfBST.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinarySearchTree'
+
+2022.12.08 22:46:57 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:46:58 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:1: error: reached end of file while parsing
+clas
+^
+1 error
+2022.12.08 22:47:00 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:47:01 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.08 22:47:08 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:47:09 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:1: error: class, interface, enum, or record expected
+larTrees
+^
+1 error
+2022.12.08 22:47:12 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:47:12 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:47:13 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.08 22:47:15 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:47:16 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:47:16 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:47:16 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.08 22:47:26 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:47:27 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:15: error: missing return statement
+    }
+    ^
+1 error
+2022.12.08 22:47:45 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:47:45 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:47:45 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:47:46 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:47:46 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                           ^
+  symbol:   method rangeSumBST(TreeNode,int,int)
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:48:01 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:48:01 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:48:06 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:48:06 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                           ^
+  symbol:   method rangeSumBST(TreeNode,int,int)
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:48:10 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:48:11 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:28: error: cannot find symbol
+        tree.left = new TreeNode(5);
+        ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:29: error: cannot find symbol
+        tree.right = new TreeNode(15);
+        ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:30: error: package tree does not exist
+        tree.left.left = new TreeNode(3);
+            ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:31: error: package tree does not exist
+        tree.left.right = new TreeNode(7);
+            ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:32: error: package tree does not exist
+        tree.right.right = new TreeNode(18);
+            ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:34: error: cannot find symbol
+        preorder(tree);
+                 ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+7 errors
+2022.12.08 22:48:16 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:48:17 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:34: error: cannot find symbol
+        preorder(tree);
+                 ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:48:21 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:48:22 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:48:29 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:48:30 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:48:34 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:48:35 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:48:39 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:48:40 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:48:45 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:48:46 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:48:57 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:48:58 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:38: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:02 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:02 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:32: error: cannot find symbol
+        tree1.right.l = new TreeNode(18);
+                   ^
+  symbol:   variable l
+  location: variable right of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:38: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:49:02 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:04 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:38: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:08 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:09 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:38: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:09 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:10 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:38: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:13 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:14 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:40: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:21 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:22 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:40: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:24 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:25 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:34: error: cannot find symbol
+        tree1.left.right.l = new TreeNode(8);
+                        ^
+  symbol:   variable l
+  location: variable right of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:40: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:49:26 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:27 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:40: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:32 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:33 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:41: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:35 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:36 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:42: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:44 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:45 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:42: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:47 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:48 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:42: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:50 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:40: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:57 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:58 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:42: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:49:58 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:49:59 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:40: error: variable tree1 is already defined in method main(String[])
+        TreeNode tree1 = new TreeNode(3);
+                 ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:53: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:50:12 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:50:13 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:41: error: variable tree1 is already defined in method main(String[])
+        TreeNode tree1 = new TreeNode(3);
+                 ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:50:13 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:50:14 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:50:18 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:50:30 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:50:31 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:50:39 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:50:40 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:50:41 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:50:42 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:50:44 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:50:45 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:50:47 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:50:48 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:51:14 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:51:15 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:51:20 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:51:21 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:51:26 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:51:27 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:51:32 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:51:33 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:51:37 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:51:38 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:48: error: constructor TreeNode in class TreeNode cannot be applied to given types;
+        tree2.right.right.left = new TreeNode();
+                                 ^
+  required: int
+  found:    no arguments
+  reason: actual and formal argument lists differ in length
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:51:38 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:51:39 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:51:43 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:51:44 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:51:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:51:50 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:49: error: constructor TreeNode in class TreeNode cannot be applied to given types;
+        tree2.right.right.right = new TreeNode();
+                                  ^
+  required: int
+  found:    no arguments
+  reason: actual and formal argument lists differ in length
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:51:50 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:51:51 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:51:53 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:51:54 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:54: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:51:54 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:51:55 WARN  Cannot tokenize Java file file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChange(MetalsLanguageServer.scala:1244)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+Dec 08, 2022 10:51:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:147)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.12.08 22:51:55 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:51:55 WARN  Cannot tokenize Java file file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1744)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1742)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2022.12.08 22:51:55 WARN  Cannot tokenize Java file file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1744)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1742)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2022.12.08 22:51:55 WARN  Cannot tokenize Java file file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChange(MetalsLanguageServer.scala:1244)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+Dec 08, 2022 10:51:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:147)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.12.08 22:51:55 WARN  Cannot tokenize Java file file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1744)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1742)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2022.12.08 22:51:55 WARN  Cannot tokenize Java file file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1744)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1742)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2022.12.08 22:51:58 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:51:59 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:52:02 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:03 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:03 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:03 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: cannot find symbol
+        System.out.println(rangeSumBST(tree, 7, 15));
+                                       ^
+  symbol:   variable tree
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:52:24 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:25 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: ')' expected
+        System.out.println(leafSimilar(TreeNode root1, TreeNode root2));
+                                               ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: not a statement
+        System.out.println(leafSimilar(TreeNode root1, TreeNode root2));
+                                                ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: ';' expected
+        System.out.println(leafSimilar(TreeNode root1, TreeNode root2));
+                                                     ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: ';' expected
+        System.out.println(leafSimilar(TreeNode root1, TreeNode root2));
+                                                                     ^
+4 errors
+2022.12.08 22:52:27 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:28 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: ')' expected
+        System.out.println(leafSimilar(TreeNode root1, root2));
+                                               ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: not a statement
+        System.out.println(leafSimilar(TreeNode root1, root2));
+                                                ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: ';' expected
+        System.out.println(leafSimilar(TreeNode root1, root2));
+                                                     ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: not a statement
+        System.out.println(leafSimilar(TreeNode root1, root2));
+                                                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: ';' expected
+        System.out.println(leafSimilar(TreeNode root1, root2));
+                                                            ^
+5 errors
+2022.12.08 22:52:30 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:31 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: ')' expected
+        System.out.println(leafSimilar(TreeNode root1, tree2));
+                                               ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: not a statement
+        System.out.println(leafSimilar(TreeNode root1, tree2));
+                                                ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: ';' expected
+        System.out.println(leafSimilar(TreeNode root1, tree2));
+                                                     ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: not a statement
+        System.out.println(leafSimilar(TreeNode root1, tree2));
+                                                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: ';' expected
+        System.out.println(leafSimilar(TreeNode root1, tree2));
+                                                            ^
+5 errors
+2022.12.08 22:52:34 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:35 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: ')' expected
+        System.out.println(leafSimilar(TreeNode tree1, tree2));
+                                               ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: not a statement
+        System.out.println(leafSimilar(TreeNode tree1, tree2));
+                                                ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: ';' expected
+        System.out.println(leafSimilar(TreeNode tree1, tree2));
+                                                     ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: not a statement
+        System.out.println(leafSimilar(TreeNode tree1, tree2));
+                                                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:55: error: ';' expected
+        System.out.println(leafSimilar(TreeNode tree1, tree2));
+                                                            ^
+5 errors
+2022.12.08 22:52:36 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:36 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:36 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:37 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:37 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:15: error: missing return statement
+    }
+    ^
+1 error
+2022.12.08 22:52:39 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:40 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:15: error: missing return statement
+    }
+    ^
+1 error
+2022.12.08 22:52:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:50 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:15: error: missing return statement
+    }
+    ^
+1 error
+2022.12.08 22:52:53 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:53 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:58 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:52:59 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:14: error: missing return statement
+    }
+    ^
+1 error
+2022.12.08 22:54:53 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:54:53 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:14: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.08 22:54:54 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:54:55 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:14: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.08 22:54:58 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:54:58 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:14: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.08 22:55:00 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:01 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:13: error: illegal start of expression
+        if(root1 == null || )
+                            ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:14: error: illegal start of statement
+    }
+    ^
+2 errors
+2022.12.08 22:55:08 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:08 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:14: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.08 22:55:13 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:14 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:15: error: missing return statement
+    }
+    ^
+1 error
+2022.12.08 22:55:16 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:17 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:17: error: missing return statement
+    }
+    ^
+1 error
+Dec 08, 2022 10:55:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1036
+2022.12.08 22:55:27 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:28 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:17: error: '(' or '[' expected
+    }
+    ^
+1 error
+2022.12.08 22:55:30 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:31 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:17: error: '(' or '[' expected
+    }
+    ^
+1 error
+2022.12.08 22:55:34 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:35 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:17: error: '(' or '[' expected
+    }
+    ^
+1 error
+2022.12.08 22:55:36 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:37 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:18: error: ';' expected
+        List<Integer> list1 = new LinkedList<>()
+                                                ^
+1 error
+2022.12.08 22:55:37 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:38 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:18: error: cannot find symbol
+        List<Integer> list1 = new LinkedList<>();
+        ^
+  symbol:   class List
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:55:41 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:42 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:18: error: cannot find symbol
+        List<Integer> list1 = new LinkedList<>();
+        ^
+  symbol:   class List
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:19: error: cannot find symbol
+        List<Integer> list1 = new LinkedList<>();
+        ^
+  symbol:   class List
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:55:44 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:45 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:18: error: cannot find symbol
+        List<Integer> list1 = new LinkedList<>();
+        ^
+  symbol:   class List
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:19: error: cannot find symbol
+        List<Integer> list2 = new LinkedList<>();
+        ^
+  symbol:   class List
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:55:46 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+Dec 08, 2022 10:55:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1143
+2022.12.08 22:55:47 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:18: error: cannot find symbol
+        List<Integer> list1 = new LinkedList<>();
+        ^
+  symbol:   class List
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:19: error: cannot find symbol
+        List<Integer> list2 = new LinkedList<>();
+        ^
+  symbol:   class List
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:55:48 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:49 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:20: error: ';' expected
+        dfs()
+             ^
+1 error
+2022.12.08 22:55:52 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:53 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:20: error: ';' expected
+        dfs(root1, l)
+                     ^
+1 error
+2022.12.08 22:55:54 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:55 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:20: error: ')' expected
+        dfs(root1, li
+                     ^
+1 error
+2022.12.08 22:55:56 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:55:57 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:20: error: ')' expected
+        dfs(root1, l  }
+                    ^
+1 error
+2022.12.08 22:55:58 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:00 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:18: error: cannot find symbol
+        List<Integer> list1 = new LinkedList<>();
+        ^
+  symbol:   class List
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:19: error: cannot find symbol
+        List<Integer> list2 = new LinkedList<>();
+        ^
+  symbol:   class List
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:56:00 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:01 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: not a statement
+        d
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: ';' expected
+        d
+         ^
+2 errors
+2022.12.08 22:56:07 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:08 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: ';' expected
+        dfs(root2, list)
+                        ^
+1 error
+2022.12.08 22:56:08 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:09 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: ';' expected
+        dfs(root2, list2)
+                         ^
+1 error
+2022.12.08 22:56:12 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:12 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:24: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.08 22:56:16 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:17 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:24: error: illegal start of expression
+        if(list1.size() != )
+                           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:25: error: illegal start of statement
+    }
+    ^
+2 errors
+2022.12.08 22:56:18 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:19 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:25: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.08 22:56:21 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:22 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:25: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.08 22:56:26 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:27 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: cannot find symbol
+        dfs(root1, list1);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:22: error: cannot find symbol
+        dfs(root2, list2);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:56:28 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:28 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: cannot find symbol
+        dfs(root1, list1);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:22: error: cannot find symbol
+        dfs(root2, list2);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:56:34 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:35 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: cannot find symbol
+        dfs(root1, list1);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:22: error: cannot find symbol
+        dfs(root2, list2);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:56:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:50 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:27: error: ';' expected
+                for(int i = 0; i < list1.size())
+                                               ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:28: error: illegal start of statement
+            }
+            ^
+2 errors
+2022.12.08 22:56:58 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:56:58 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:29: error: illegal start of statement
+                }
+                ^
+1 error
+2022.12.08 22:57:01 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:02 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:28: error: illegal start of expression
+                    if(list1.get(i)!= )
+                                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:29: error: illegal start of statement
+                }
+                ^
+2 errors
+2022.12.08 22:57:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:06 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:29: error: illegal start of statement
+                }
+                ^
+1 error
+2022.12.08 22:57:09 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:10 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:29: error: not a statement
+                    retur
+                    ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:29: error: ';' expected
+                    retur
+                         ^
+2 errors
+2022.12.08 22:57:13 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:14 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: cannot find symbol
+        dfs(root1, list1);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:22: error: cannot find symbol
+        dfs(root2, list2);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:57:20 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:21 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: cannot find symbol
+        dfs(root1, list1);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:22: error: cannot find symbol
+        dfs(root2, list2);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:57:22 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:23 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:35: error: illegal start of expression
+    public static void preorder(TreeNode node) {
+    ^
+1 error
+2022.12.08 22:57:28 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:28 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:34: error: illegal start of expression
+    public static void preorder(TreeNode node) {
+    ^
+1 error
+2022.12.08 22:57:29 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:30 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: cannot find symbol
+        dfs(root1, list1);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:22: error: cannot find symbol
+        dfs(root2, list2);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:57:32 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:33 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: cannot find symbol
+        dfs(root1, list1);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:22: error: cannot find symbol
+        dfs(root2, list2);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:57:35 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:36 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:36 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: cannot find symbol
+        dfs(root1, list1);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:22: error: cannot find symbol
+        dfs(root2, list2);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:57:36 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:36 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:39 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:40 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: cannot find symbol
+        dfs(root1, list1);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:22: error: cannot find symbol
+        dfs(root2, list2);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:57:40 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:41 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:21: error: cannot find symbol
+        dfs(root1, list1);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:22: error: cannot find symbol
+        dfs(root2, list2);
+        ^
+  symbol:   method dfs(TreeNode,List<Integer>)
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:57:55 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:56 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:36: error: repeated modifier
+    public static void preorder(TreeNode node) {
+    ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:36: error: repeated modifier
+    public static void preorder(TreeNode node) {
+           ^
+2 errors
+2022.12.08 22:57:58 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:57:59 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:35: error: <identifier> expected
+    public static void dfs(root1, list1)
+                                ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:35: error: <identifier> expected
+    public static void dfs(root1, list1)
+                                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:35: error: ';' expected
+    public static void dfs(root1, list1)
+                                        ^
+3 errors
+2022.12.08 22:58:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:06 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:35: error: <identifier> expected
+    public static void dfs( root1, list1)
+                                 ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:35: error: <identifier> expected
+    public static void dfs( root1, list1)
+                                        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:35: error: ';' expected
+    public static void dfs( root1, list1)
+                                         ^
+3 errors
+2022.12.08 22:58:07 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:08 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:35: error: <identifier> expected
+    public static void dfs(TreeNode root1, list1)
+                                                ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:35: error: ';' expected
+    public static void dfs(TreeNode root1, list1)
+                                                 ^
+2 errors
+2022.12.08 22:58:17 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:18 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:35: error: ';' expected
+    public static void dfs(TreeNode root1, List<Integer> list1)
+                                                               ^
+1 error
+2022.12.08 22:58:27 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:28 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.08 22:58:34 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:35 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.08 22:58:36 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:37 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:36: error: cannot find symbol
+        if (root.left == null && root.right == null) {
+            ^
+  symbol:   variable root
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:36: error: cannot find symbol
+        if (root.left == null && root.right == null) {
+                                 ^
+  symbol:   variable root
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:58:40 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:41 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: not a statement
+            list.add
+                ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: ';' expected
+            list.add
+                    ^
+2 errors
+2022.12.08 22:58:42 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:43 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:38: error: ';' expected
+            (root)
+                  ^
+1 error
+2022.12.08 22:58:45 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:50 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:38: error: ';' expected
+            (root)
+                  ^
+1 error
+2022.12.08 22:58:51 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:51 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: ';' expected
+            list.add            (root)
+                                      ^
+1 error
+Dec 08, 2022 10:58:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1941
+2022.12.08 22:58:56 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:56 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: ';' expected
+            list.add(root)
+                          ^
+1 error
+2022.12.08 22:58:58 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:58:59 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: <identifier> expected
+            list.add(root.)
+                          ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: ';' expected
+            list.add(root.)
+                           ^
+2 errors
+2022.12.08 22:59:03 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:59:04 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+            list.add(root.val);
+            ^
+  symbol:   variable list
+  location: class LeafSimilarTrees
+1 error
+2022.12.08 22:59:10 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:59:11 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:42: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.08 22:59:19 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:59:20 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:42: error: ';' expected
+            dfs(root)
+                     ^
+1 error
+2022.12.08 22:59:25 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:59:26 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+            list.add(root.val);
+            ^
+  symbol:   variable list
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:42: error: cannot find symbol
+            dfs(root.left, list);
+                           ^
+  symbol:   variable list
+  location: class LeafSimilarTrees
+2 errors
+2022.12.08 22:59:31 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:59:32 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+            list.add(root.val);
+            ^
+  symbol:   variable list
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:42: error: cannot find symbol
+            dfs(root.left, list);
+                           ^
+  symbol:   variable list
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:46: error: cannot find symbol
+            dfs(root.left, list);
+                           ^
+  symbol:   variable list
+  location: class LeafSimilarTrees
+3 errors
+2022.12.08 22:59:36 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:59:37 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+            list.add(root.val);
+            ^
+  symbol:   variable list
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:42: error: cannot find symbol
+            dfs(root.left, list);
+                           ^
+  symbol:   variable list
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:46: error: cannot find symbol
+            dfs(root.left, list);
+                           ^
+  symbol:   variable list
+  location: class LeafSimilarTrees
+3 errors
+2022.12.08 22:59:40 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:59:41 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:59:41 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:59:41 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 22:59:41 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:37: error: cannot find symbol
+            list.add(root.val);
+            ^
+  symbol:   variable list
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:42: error: cannot find symbol
+            dfs(root.left, list);
+                           ^
+  symbol:   variable list
+  location: class LeafSimilarTrees
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java:46: error: cannot find symbol
+            dfs(root.right, list);
+                            ^
+  symbol:   variable list
+  location: class LeafSimilarTrees
+3 errors
+2022.12.08 23:01:04 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 23:01:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 23:01:05 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.08 23:01:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 23:01:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 23:01:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 23:01:10 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.08 23:01:11 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+Dec 08, 2022 11:05:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.12.08 23:06:24 INFO  shutting down Metals
