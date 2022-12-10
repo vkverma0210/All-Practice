@@ -1893,3 +1893,1279 @@ semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\Bina
 Dec 08, 2022 11:05:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2022.12.08 23:06:24 INFO  shutting down Metals
+2022.12.09 23:14:35 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Vinay Courses\All Practice\.metals\lsp.trace.json or C:\Users\vkver\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.09 23:14:37 INFO  logging to file D:\Vinay Courses\All Practice\.metals\metals.log
+2022.12.09 23:14:37 INFO  Started: Metals version 0.11.9 in workspace 'D:\Vinay Courses\All Practice' for client Visual Studio Code 1.74.0.
+2022.12.09 23:14:39 INFO  time: initialize in 2.53s
+2022.12.09 23:14:44 WARN  Build server is not auto-connectable.
+2022.12.09 23:14:44 WARN  no build tool detected in workspace 'D:\Vinay Courses\All Practice'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.09 23:14:44 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+Dec 09, 2022 11:14:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2022.12.09 23:14:44 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:14:46 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:1: error: reached end of file while parsing
+clas
+^
+1 error
+2022.12.09 23:14:47 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:14:48 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.09 23:14:50 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.09 23:14:53 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.09 23:15:19 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:15:20 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.09 23:15:39 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:15:41 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:51: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+1 error
+2022.12.09 23:15:48 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:16:04 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:16:06 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:54: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+1 error
+2022.12.09 23:16:06 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:16:07 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:56: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+1 error
+2022.12.09 23:19:22 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:19:24 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:12: error: <identifier> expected
+    public sta int maxAncestorDiff(TreeNode root) {
+              ^
+1 error
+2022.12.09 23:19:24 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:19:25 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:56: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+1 error
+2022.12.09 23:19:25 INFO  time: code lens generation in 1.77s
+2022.12.09 23:19:27 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:19:28 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:13: error: illegal start of expression
+        if()
+           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: illegal start of statement
+    }
+    ^
+2 errors
+2022.12.09 23:20:34 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:20:35 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: illegal start of expression
+        if()
+           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:15: error: illegal start of statement
+    }
+    ^
+2 errors
+Dec 09, 2022 11:20:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 162
+2022.12.09 23:20:55 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:20:57 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:20:58 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:16: error: illegal start of expression
+        if()
+           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: illegal start of statement
+    }
+    ^
+2 errors
+2022.12.09 23:21:01 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:21:02 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: ';' expected
+        int res
+               ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:16: error: illegal start of expression
+        if()
+           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: illegal start of statement
+    }
+    ^
+3 errors
+2022.12.09 23:21:07 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:21:08 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:16: error: illegal start of expression
+        if()
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:16: error: illegal start of expression
+        if()
+           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: illegal start of statement
+    }
+    ^
+3 errors
+2022.12.09 23:21:10 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:21:11 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: <identifier> expected
+        int result = Integer,
+                             ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:16: error: illegal start of expression
+        if()
+           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: illegal start of statement
+    }
+    ^
+3 errors
+2022.12.09 23:21:14 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:21:15 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: ';' expected
+        int result = Integer.MIN
+                                ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:16: error: illegal start of expression
+        if()
+           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: illegal start of statement
+    }
+    ^
+3 errors
+2022.12.09 23:21:17 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:21:18 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:16: error: illegal start of expression
+        if()
+           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: illegal start of statement
+    }
+    ^
+2 errors
+2022.12.09 23:21:19 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:21:20 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:15: error: illegal start of expression
+        if()
+           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:16: error: illegal start of statement
+    }
+    ^
+2 errors
+2022.12.09 23:21:54 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:21:55 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:16: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.09 23:21:55 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:21:56 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.09 23:21:59 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:22:00 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:59: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+1 error
+2022.12.09 23:23:13 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:23:14 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return result;
+               ^
+  symbol:   variable result
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:57: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+2 errors
+2022.12.09 23:23:22 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:23:23 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: illegal start of expression
+        return dfs(root, root.value,);
+                                    ^
+1 error
+2022.12.09 23:23:23 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:23:24 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: illegal start of expression
+        return dfs(root, root.value, );
+                                     ^
+1 error
+2022.12.09 23:23:28 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:23:29 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:57: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+2 errors
+2022.12.09 23:23:32 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:23:33 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:59: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+2 errors
+2022.12.09 23:23:46 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:23:46 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    p
+     ^
+1 error
+2022.12.09 23:23:50 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:23:51 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int 
+                     ^
+1 error
+2022.12.09 23:23:51 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:23:52 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(root, root.value, root.val)
+                              ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(root, root.value, root.val)
+                                          ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(root, root.value, root.val)
+                                                    ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: ';' expected
+    public static int dfs(root, root.value, root.val)
+                                                     ^
+4 errors
+2022.12.09 23:23:55 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:23:56 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs( root, root.value, root.val)
+                               ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs( root, root.value, root.val)
+                                           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs( root, root.value, root.val)
+                                                     ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: ';' expected
+    public static int dfs( root, root.value, root.val)
+                                                      ^
+4 errors
+2022.12.09 23:23:57 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:23:57 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(Tree root, root.value, root.val)
+                                               ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(Tree root, root.value, root.val)
+                                                         ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: ';' expected
+    public static int dfs(Tree root, root.value, root.val)
+                                                          ^
+3 errors
+2022.12.09 23:23:58 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:23:58 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(TreeNode root, root.value, root.val)
+                                                   ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(TreeNode root, root.value, root.val)
+                                                             ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: ';' expected
+    public static int dfs(TreeNode root, root.value, root.val)
+                                                              ^
+3 errors
+2022.12.09 23:24:03 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:04 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(TreeNode root, minValue, root.val)
+                                                 ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(TreeNode root, minValue, root.val)
+                                                           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: ';' expected
+    public static int dfs(TreeNode root, minValue, root.val)
+                                                            ^
+3 errors
+2022.12.09 23:24:07 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:08 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(TreeNode root, minValue, maxV)
+                                                 ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(TreeNode root, minValue, maxV)
+                                                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: ';' expected
+    public static int dfs(TreeNode root, minValue, maxV)
+                                                        ^
+3 errors
+2022.12.09 23:24:11 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:12 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(TreeNode root, minValue, maxVa)
+                                                 ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(TreeNode root, minValue, maxVa)
+                                                        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: ';' expected
+    public static int dfs(TreeNode root, minValue, maxVa)
+                                                         ^
+3 errors
+2022.12.09 23:24:14 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:15 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(TreeNode root, minValue, maxValue)
+                                                 ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(TreeNode root, minValue, maxValue)
+                                                           ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: ';' expected
+    public static int dfs(TreeNode root, minValue, maxValue)
+                                                            ^
+3 errors
+2022.12.09 23:24:17 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:17 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: <identifier> expected
+    public static int dfs(TreeNode root, minValue, int maxValue)
+                                                 ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: ';' expected
+    public static int dfs(TreeNode root, minValue, int maxValue)
+                                                                ^
+2 errors
+2022.12.09 23:24:20 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:21 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:17: error: ';' expected
+    public static int dfs(TreeNode root, int minValue, int maxValue)
+                                                                    ^
+1 error
+2022.12.09 23:24:27 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:28 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:19: error: illegal start of statement
+    }
+    ^
+1 error
+Dec 09, 2022 11:24:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 610
+2022.12.09 23:24:33 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:35 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:63: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+2 errors
+2022.12.09 23:24:35 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:36 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:22: error: not a statement
+        int 
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:22: error: ';' expected
+        int 
+           ^
+2 errors
+Dec 09, 2022 11:24:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 638
+2022.12.09 23:24:43 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:44 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:22: error: ';' expected
+        int op1 = MAth.max()
+                            ^
+1 error
+2022.12.09 23:24:47 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:47 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:22: error: ';' expected
+        int op1 = MAth.max(Math.abs(maxValue))
+                                              ^
+1 error
+2022.12.09 23:24:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:50 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:22: error: ';' expected
+        int op1 = MAth.max(Math.abs(root))
+                                          ^
+1 error
+2022.12.09 23:24:53 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:53 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:22: error: ';' expected
+        int op1 = MAth.max(Math.abs(root.val - min))
+                                                    ^
+1 error
+2022.12.09 23:24:56 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:24:57 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:22: error: ';' expected
+        int op1 = Math.max(Math.abs(root.val - min))
+                                                    ^
+1 error
+2022.12.09 23:25:04 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:25:05 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:22: error: ';' expected
+        int op1 = Math.max(Math.abs(root.val - min), MAth)
+                                                          ^
+1 error
+2022.12.09 23:25:07 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:25:08 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:22: error: ';' expected
+        int op1 = Math.max(Math.abs(root.val - min), Math.abs(maxValue))
+                                                                        ^
+1 error
+2022.12.09 23:25:14 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:25:15 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:22: error: ';' expected
+        int op1 = Math.max(Math.abs(root.val - min), Math.abs(root.val - ma))
+                                                                             ^
+1 error
+2022.12.09 23:25:16 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:25:17 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:22: error: ';' expected
+        int op1 = Math.max(Math.abs(root.val - min), Math.abs(root.val - maxValue))
+                                                                                   ^
+1 error
+2022.12.09 23:25:21 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:25:22 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:22: error: cannot find symbol
+        int op1 = Math.max(Math.abs(root.val - min), Math.abs(root.val - maxValue));
+                                               ^
+  symbol:   variable min
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:65: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+3 errors
+2022.12.09 23:25:25 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:25:26 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:65: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+2 errors
+2022.12.09 23:25:31 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:25:33 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:66: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+2 errors
+2022.12.09 23:25:39 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:25:40 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:25: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.09 23:25:47 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:25:49 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:69: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+2 errors
+2022.12.09 23:25:56 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:25:57 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:29: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.09 23:25:59 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:26:00 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:29: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.09 23:26:04 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:26:05 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:28: error: cannot find symbol
+        if(root.val > max){
+                      ^
+  symbol:   variable max
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:29: error: cannot find symbol
+            max = root.val;
+            ^
+  symbol:   variable max
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:73: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+4 errors
+2022.12.09 23:26:10 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:26:11 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:28: error: cannot find symbol
+        if(root.val > max){
+                      ^
+  symbol:   variable max
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:73: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+3 errors
+2022.12.09 23:26:13 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:26:14 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:73: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+2 errors
+2022.12.09 23:26:18 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:26:19 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:32: error: ';' expected
+        int o
+             ^
+1 error
+2022.12.09 23:26:23 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:26:24 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:32: error: ';' expected
+        int op2 = MAth.ma
+                         ^
+1 error
+2022.12.09 23:26:41 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:26:42 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:32: error: ';' expected
+        int op2 = Math.max(maxValue, op1)
+                                         ^
+1 error
+2022.12.09 23:26:47 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:26:48 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:32: error: ';' expected
+        int op2 = Math.max(dfs, op1)
+                                    ^
+1 error
+2022.12.09 23:26:51 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:26:52 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:32: error: ';' expected
+        int op2 = Math.max(dfs(root.left), op1)
+                                               ^
+1 error
+2022.12.09 23:26:54 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:26:55 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:32: error: ';' expected
+        int op2 = Math.max(dfs(root.left, minValue), op1)
+                                                         ^
+1 error
+2022.12.09 23:26:57 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:26:57 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:32: error: ';' expected
+        int op2 = Math.max(dfs(root.left, minValue, mav), op1)
+                                                              ^
+1 error
+2022.12.09 23:26:59 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:00 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:32: error: ';' expected
+        int op2 = Math.max(dfs(root.left, minValue, maxValue), op1)
+                                                                   ^
+1 error
+2022.12.09 23:27:07 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:07 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:32: error: ';' expected
+        int op2 = Math.max(dfs(root.left, minValue, maxValue), dfs)
+                                                                   ^
+1 error
+2022.12.09 23:27:11 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:11 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:32: error: ';' expected
+        int op2 = Math.max(dfs(root.left, minValue, maxValue), dfs(root, minValue, maxValue))
+                                                                                             ^
+1 error
+2022.12.09 23:27:13 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:14 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:32: error: ';' expected
+        int op2 = Math.max(dfs(root.left, minValue, maxValue), dfs(root.right, minValue, maxValue))
+                                                                                                   ^
+1 error
+2022.12.09 23:27:19 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:20 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:77: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+2 errors
+2022.12.09 23:27:22 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:23 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:35: error: illegal start of expression
+    }
+    ^
+1 error
+2022.12.09 23:27:26 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:27 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:34: error: ';' expected
+        return Math.ma
+                      ^
+1 error
+2022.12.09 23:27:28 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:28 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:34: error: ';' expected
+        return Math.max(maxValue, op2)
+                                      ^
+1 error
+2022.12.09 23:27:30 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:31 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:34: error: ';' expected
+        return Math.max(op, op2)
+                                ^
+1 error
+2022.12.09 23:27:31 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:32 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:34: error: ';' expected
+        return Math.max(op1, op2)
+                                 ^
+1 error
+2022.12.09 23:27:33 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:33 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:34 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:34 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:77: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                           ^
+  symbol:   method leafSimilar(TreeNode,TreeNode)
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+2 errors
+2022.12.09 23:27:39 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:40 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:40 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:27:59 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:28:00 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:63: error: cannot find symbol
+        System.out.println(leafSimilar( tree1, tree2));
+                                               ^
+  symbol:   variable tree2
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+2 errors
+2022.12.09 23:28:04 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:28:05 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:63: error: ')' expected
+        System.out.println(maxAncestorDiff(TreeNode root));
+                                                   ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:63: error: not a statement
+        System.out.println(maxAncestorDiff(TreeNode root));
+                                                    ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:63: error: ';' expected
+        System.out.println(maxAncestorDiff(TreeNode root));
+                                                        ^
+3 errors
+2022.12.09 23:28:09 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:28:10 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:63: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree));
+                                           ^
+  symbol:   variable tree
+  location: class MaximumDifferenceBetweenNodeAndAncestor
+2 errors
+2022.12.09 23:28:17 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:28:18 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:28:23 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:28:24 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:28:25 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:28:27 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:28:27 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:28:28 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:28:30 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:28:31 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:28:36 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:28:37 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:53: error: constructor TreeNode in class TreeNode cannot be applied to given types;
+        tree1.left.right = new TreeNode();
+                           ^
+  required: int
+  found:    no arguments
+  reason: actual and formal argument lists differ in length
+2 errors
+2022.12.09 23:28:37 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:28:38 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:29:00 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:29:01 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:29:08 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:29:09 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:29:24 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:29:25 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:29:25 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:56: error: constructor TreeNode in class TreeNode cannot be applied to given types;
+        tree1.left.right.right = new TreeNode();
+                                 ^
+  required: int
+  found:    no arguments
+  reason: actual and formal argument lists differ in length
+2 errors
+2022.12.09 23:29:26 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:29:26 INFO  time: code lens generation in 1.85s
+2022.12.09 23:29:34 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:29:35 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:29:39 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:29:40 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:29:43 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:29:44 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:29:51 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:29:52 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java:14: error: cannot find symbol
+        return dfs(root, root.value, root.val);
+                             ^
+  symbol:   variable value
+  location: variable root of type TreeNode
+1 error
+2022.12.09 23:30:04 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:30:05 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.09 23:30:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:30:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:30:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:30:45 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:30:45 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:30:45 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:30:45 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.09 23:30:45 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.09 23:30:45 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+Dec 09, 2022 11:32:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.12.09 23:32:40 INFO  shutting down Metals
