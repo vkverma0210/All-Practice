@@ -3169,3 +3169,1848 @@ semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\Bina
 Dec 09, 2022 11:32:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2022.12.09 23:32:40 INFO  shutting down Metals
+2022.12.10 23:41:31 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Vinay Courses\All Practice\.metals\lsp.trace.json or C:\Users\vkver\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.10 23:41:33 INFO  logging to file D:\Vinay Courses\All Practice\.metals\metals.log
+2022.12.10 23:41:33 INFO  Started: Metals version 0.11.9 in workspace 'D:\Vinay Courses\All Practice' for client Visual Studio Code 1.74.0.
+2022.12.10 23:41:37 INFO  time: initialize in 4s
+2022.12.10 23:41:41 WARN  Build server is not auto-connectable.
+2022.12.10 23:41:41 WARN  no build tool detected in workspace 'D:\Vinay Courses\All Practice'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.10 23:41:41 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumDifferenceBetweenNodeAndAncestor.java
+2022.12.10 23:41:43 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumDifferenceBetweenNodeAndAncestor.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.10 23:43:57 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:43:58 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.10 23:43:59 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:43:59 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+Dec 10, 2022 11:44:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.12.10 23:44:15 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:44:15 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.10 23:45:31 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:45:31 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.10 23:45:33 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:45:33 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.10 23:45:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:45:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:45:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:45:49 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:37: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+1 error
+2022.12.10 23:49:25 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:49:25 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:39: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+1 error
+2022.12.10 23:49:26 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:49:27 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:41: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+1 error
+2022.12.10 23:49:31 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:49:31 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:41: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+1 error
+2022.12.10 23:53:12 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:53:13 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:43: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+1 error
+2022.12.10 23:53:16 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:53:16 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:12: error: <identifier> expected
+    long 
+        ^
+1 error
+2022.12.10 23:53:22 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:53:22 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:43: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+1 error
+2022.12.10 23:53:32 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:53:32 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:15: error: illegal start of expression
+        if(root == )
+                   ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:16: error: illegal start of statement
+    }
+    ^
+2 errors
+2022.12.10 23:53:34 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:53:34 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:16: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.10 23:53:40 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:53:41 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:45: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+1 error
+2022.12.10 23:53:44 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:53:45 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: illegal start of expression
+    }
+    ^
+1 error
+2022.12.10 23:53:56 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:53:57 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: ';' expected
+        long total 
+                  ^
+1 error
+2022.12.10 23:53:59 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:00 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: ';' expected
+        long total = sum()
+                          ^
+1 error
+2022.12.10 23:54:01 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:02 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: ';' expected
+        long total = sum(root)
+                              ^
+1 error
+2022.12.10 23:54:03 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:03 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: cannot find symbol
+        long total = sum(root);
+                     ^
+  symbol:   method sum(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:49: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+3 errors
+2022.12.10 23:54:09 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:09 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: ';' expected
+        dfs()
+             ^
+1 error
+2022.12.10 23:54:12 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:13 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: ';' expected
+        dfs(root, total)
+                        ^
+1 error
+2022.12.10 23:54:16 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:17 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:23: error: illegal start of expression
+    }
+    ^
+1 error
+2022.12.10 23:54:22 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:23 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: illegal start of expression
+        return (int) (max % )
+                            ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: ';' expected
+        return (int) (max % )
+                             ^
+2 errors
+2022.12.10 23:54:25 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:25 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: ';' expected
+        return (int) (max % (Ma))
+                                 ^
+1 error
+2022.12.10 23:54:27 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:27 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: ';' expected
+        return (int) (max % (Math))
+                                   ^
+1 error
+2022.12.10 23:54:29 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:30 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: ';' expected
+        return (int) (max % (Math.pow(total, total)))
+                                                     ^
+1 error
+2022.12.10 23:54:31 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:31 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: ';' expected
+        return (int) (max % (Math.pow(1, total)))
+                                                 ^
+1 error
+2022.12.10 23:54:33 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:34 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: ';' expected
+        return (int) (max % (Math.pow(10, total)))
+                                                  ^
+1 error
+2022.12.10 23:54:36 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:36 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: ';' expected
+        return (int) (max % (Math.pow(10, 9)))
+                                              ^
+1 error
+2022.12.10 23:54:40 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:40 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: ';' expected
+        return (int) (max % (Math.pow(10, 9) + 7))
+                                                  ^
+1 error
+2022.12.10 23:54:42 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:54:43 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: cannot find symbol
+        long total = sum(root);
+                     ^
+  symbol:   method sum(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: cannot find symbol
+        dfs(root, total);
+        ^
+  symbol:   method dfs(TreeNode,long)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:50: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+5 errors
+2022.12.10 23:55:01 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:02 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:25: error: <identifier> expected
+    private long 
+                ^
+1 error
+2022.12.10 23:55:06 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:06 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:25: error: <identifier> expected
+    private long dfs(Tree)
+                         ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:25: error: ';' expected
+    private long dfs(Tree)
+                          ^
+2 errors
+2022.12.10 23:55:12 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:13 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:25: error: ';' expected
+    private long dfs(TreeNode root, long total)
+                                               ^
+1 error
+2022.12.10 23:55:14 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:15 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: cannot find symbol
+        long total = sum(root);
+                     ^
+  symbol:   method sum(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: non-static method dfs(TreeNode,long) cannot be referenced from a static context
+        dfs(root, total);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:54: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+5 errors
+2022.12.10 23:55:20 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:21 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:27: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.10 23:55:23 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:24 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:28: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.10 23:55:25 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:26 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: cannot find symbol
+        long total = sum(root);
+                     ^
+  symbol:   method sum(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: non-static method dfs(TreeNode,long) cannot be referenced from a static context
+        dfs(root, total);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:57: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+5 errors
+2022.12.10 23:55:28 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:28 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:29 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: cannot find symbol
+        long total = sum(root);
+                     ^
+  symbol:   method sum(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: non-static method dfs(TreeNode,long) cannot be referenced from a static context
+        dfs(root, total);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:57: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+5 errors
+2022.12.10 23:55:31 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:32 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: cannot find symbol
+        long total = sum(root);
+                     ^
+  symbol:   method sum(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: non-static method dfs(TreeNode,long) cannot be referenced from a static context
+        dfs(root, total);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:56: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+5 errors
+2022.12.10 23:55:34 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:34 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: cannot find symbol
+        long total = sum(root);
+                     ^
+  symbol:   method sum(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: non-static method dfs(TreeNode,long) cannot be referenced from a static context
+        dfs(root, total);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:56: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+5 errors
+2022.12.10 23:55:38 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:38 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:30: error: not a statement
+        long 
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:30: error: ';' expected
+        long 
+            ^
+2 errors
+2022.12.10 23:55:42 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:43 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:30: error: ';' expected
+        long left = dfs()
+                         ^
+1 error
+2022.12.10 23:55:44 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:45 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:30: error: ';' expected
+        long left = dfs(roo)
+                            ^
+1 error
+2022.12.10 23:55:47 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:48 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:30: error: ';' expected
+        long left = dfs(root, total))
+                                    ^
+1 error
+2022.12.10 23:55:50 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:50 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:30: error: ';' expected
+        long left = dfs(root.left, total))
+                                         ^
+1 error
+2022.12.10 23:55:53 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:55:53 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:30: error: ';' expected
+        long left = dfs(root.left, total)
+                                         ^
+1 error
+2022.12.10 23:56:00 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:01 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:31: error: ';' expected
+        long right = dfs()
+                          ^
+1 error
+2022.12.10 23:56:02 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:03 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:31: error: ';' expected
+        long right = dfs(root, total))
+                                     ^
+1 error
+2022.12.10 23:56:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:06 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:31: error: ';' expected
+        long right = dfs(root.right, total))
+                                           ^
+1 error
+2022.12.10 23:56:19 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:19 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:32: error: ';' expected
+        long rem = total - left
+                               ^
+1 error
+2022.12.10 23:56:20 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:21 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: cannot find symbol
+        long total = sum(root);
+                     ^
+  symbol:   method sum(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: non-static method dfs(TreeNode,long) cannot be referenced from a static context
+        dfs(root, total);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:60: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+5 errors
+2022.12.10 23:56:24 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:25 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: cannot find symbol
+        long total = sum(root);
+                     ^
+  symbol:   method sum(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: non-static method dfs(TreeNode,long) cannot be referenced from a static context
+        dfs(root, total);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:61: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+5 errors
+2022.12.10 23:56:26 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:27 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:34: error: illegal start of expression
+    }
+    ^
+1 error
+2022.12.10 23:56:29 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:29 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: ';' expected
+        max = Math
+                  ^
+1 error
+2022.12.10 23:56:32 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:33 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: ';' expected
+        max = Math.max
+                      ^
+1 error
+2022.12.10 23:56:35 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:36 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: illegal start of expression
+        max = Math.max(max, )
+                            ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: ';' expected
+        max = Math.max(max, )
+                             ^
+2 errors
+2022.12.10 23:56:38 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:39 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: illegal start of expression
+        max = Math.max(max, rem * )
+                                  ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: ';' expected
+        max = Math.max(max, rem * )
+                                   ^
+2 errors
+2022.12.10 23:56:40 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:41 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: ';' expected
+        max = Math.max(max, rem * left)
+                                       ^
+1 error
+2022.12.10 23:56:42 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:42 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: cannot find symbol
+        long total = sum(root);
+                     ^
+  symbol:   method sum(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: non-static method dfs(TreeNode,long) cannot be referenced from a static context
+        dfs(root, total);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:61: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+5 errors
+2022.12.10 23:56:47 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:48 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:34: error: ';' expected
+        rem = total - ri
+                        ^
+1 error
+2022.12.10 23:56:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:56:50 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: cannot find symbol
+        long total = sum(root);
+                     ^
+  symbol:   method sum(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: non-static method dfs(TreeNode,long) cannot be referenced from a static context
+        dfs(root, total);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:62: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+5 errors
+2022.12.10 23:58:48 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:58:49 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:36: error: illegal start of expression
+    }
+    ^
+1 error
+2022.12.10 23:58:51 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:58:51 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: ';' expected
+        max = MAth.ma
+                     ^
+1 error
+2022.12.10 23:58:53 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:58:54 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: ';' expected
+        max = Math.max(total, rem)
+                                  ^
+1 error
+2022.12.10 23:58:57 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:58:57 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: ';' expected
+        max = Math.max(max, rem)
+                                ^
+1 error
+Dec 10, 2022 11:59:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1155
+2022.12.10 23:59:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:59:05 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:37: error: illegal start of expression
+    }
+    ^
+1 error
+2022.12.10 23:59:14 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:59:14 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:59:15 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:20: error: cannot find symbol
+        long total = sum(root);
+                     ^
+  symbol:   method sum(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:21: error: non-static method dfs(TreeNode,long) cannot be referenced from a static context
+        dfs(root, total);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:64: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+5 errors
+2022.12.10 23:59:21 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:59:22 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:39: error: ';' expected
+    private long su
+                   ^
+1 error
+2022.12.10 23:59:23 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:59:23 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:39: error: <identifier> expected
+    private long
+                ^
+1 error
+2022.12.10 23:59:26 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:59:26 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:39: error: <identifier> expected
+    private static long
+                       ^
+1 error
+2022.12.10 23:59:33 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:59:33 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:39: error: <identifier> expected
+    private static long
+                       ^
+1 error
+2022.12.10 23:59:41 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:59:42 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:39: error: <identifier> expected
+    private static long sum(Tree)
+                                ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:39: error: ';' expected
+    private static long sum(Tree)
+                                 ^
+2 errors
+2022.12.10 23:59:43 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:59:43 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:39: error: <identifier> expected
+    private static long sum(TreeNode)
+                                    ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:39: error: ';' expected
+    private static long sum(TreeNode)
+                                     ^
+2 errors
+2022.12.10 23:59:44 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:59:44 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:39: error: <identifier> expected
+    private static long sum(TreeNode )
+                                    ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:39: error: ';' expected
+    private static long sum(TreeNode )
+                                      ^
+2 errors
+2022.12.10 23:59:51 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:59:51 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:39: error: ';' expected
+    private static long sum(TreeNode root)
+                                          ^
+1 error
+2022.12.10 23:59:56 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.10 23:59:57 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:40: error: illegal start of expression
+        if(root == )
+                   ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:41: error: illegal start of statement
+    }
+    ^
+2 errors
+2022.12.10 23:59:57 WARN  Cannot tokenize Java file file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1427)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChange(MetalsLanguageServer.scala:1244)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+Dec 10, 2022 11:59:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1427)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:147)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.12.10 23:59:57 WARN  Cannot tokenize Java file file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1427)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1744)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1742)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2022.12.10 23:59:57 WARN  Cannot tokenize Java file file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1427)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1744)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1742)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2022.12.10 23:59:58 WARN  Cannot tokenize Java file file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1490)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChange(MetalsLanguageServer.scala:1244)
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+Dec 10, 2022 11:59:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1490)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:147)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.12.10 23:59:58 WARN  Cannot tokenize Java file file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1490)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1744)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1742)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2022.12.10 23:59:58 WARN  Cannot tokenize Java file file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Character_Constant
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1490)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1744)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1742)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2022.12.11 00:00:01 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:01 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:41: error: illegal start of statement
+    }
+    ^
+1 error
+2022.12.11 00:00:03 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:04 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:41: error: not a statement
+            re
+            ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:41: error: ';' expected
+            re
+              ^
+2 errors
+2022.12.11 00:00:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:06 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:70: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:00:11 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:12 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:43: error: not a statement
+        long 
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:43: error: ';' expected
+        long 
+            ^
+2 errors
+2022.12.11 00:00:20 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:20 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:72: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:00:22 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:23 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:73: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:00:24 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:25 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:45: error: not a statement
+        long 
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:45: error: ';' expected
+        long 
+            ^
+2 errors
+2022.12.11 00:00:29 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:30 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:45: error: ';' expected
+        long right = sum()
+                          ^
+1 error
+2022.12.11 00:00:33 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:34 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:45: error: ';' expected
+        long right = sum(root.right)
+                                    ^
+1 error
+2022.12.11 00:00:35 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:35 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:74: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:00:40 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:40 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:46: error: ';' expected
+        return left = right 
+                           ^
+1 error
+2022.12.11 00:00:43 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:43 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:46: error: ';' expected
+        return left + right 
+                           ^
+1 error
+2022.12.11 00:00:51 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:52 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:52 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:00:52 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:74: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:01:05 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:01:06 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:74: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:01:08 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:01:09 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:74: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:01:10 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:01:11 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:74: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:01:19 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:01:19 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:74: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:01:24 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:01:25 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:64: error: constructor TreeNode in class TreeNode cannot be applied to given types;
+        tree1.left.right = new TreeNode();
+                           ^
+  required: int
+  found:    no arguments
+  reason: actual and formal argument lists differ in length
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:74: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+8 errors
+2022.12.11 00:01:26 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:01:27 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:74: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:01:39 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:01:40 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:74: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:01:43 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:01:44 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:74: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:01:48 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:01:48 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:71: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+7 errors
+2022.12.11 00:01:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:01:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:01:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:02:33 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\LeafSimilarTrees.java
+2022.12.11 00:02:34 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/LeafSimilarTrees.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.11 00:02:49 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:02:50 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:12: error: cannot find symbol
+    private stalong max = 0;
+            ^
+  symbol:   class stalong
+  location: class MaximumProductOfSplittedBinaryTree
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:19: error: non-static variable max cannot be referenced from a static context
+        max = root.val;
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:22: error: non-static variable max cannot be referenced from a static context
+        return (int) (max % (Math.pow(10, 9) + 7));
+                      ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:33: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * left);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+        ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:35: error: non-static variable max cannot be referenced from a static context
+        max = Math.max(max, rem * right);
+                       ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:71: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+8 errors
+2022.12.11 00:02:51 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:02:51 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:02:51 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:02:52 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:71: error: cannot find symbol
+        System.out.println(maxAncestorDiff(tree1));
+                           ^
+  symbol:   method maxAncestorDiff(TreeNode)
+  location: class MaximumProductOfSplittedBinaryTree
+1 error
+2022.12.11 00:03:10 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:03:11 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:71: error: ')' expected
+        System.out.println( maxProduct(TreeNode root));
+                                               ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:71: error: not a statement
+        System.out.println( maxProduct(TreeNode root));
+                                                ^
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:71: error: ';' expected
+        System.out.println( maxProduct(TreeNode root));
+                                                    ^
+3 errors
+2022.12.11 00:03:13 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:03:13 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:03:14 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:03:14 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:71: error: cannot find symbol
+        System.out.println( maxProduct(root));
+                                       ^
+  symbol:   variable root
+  location: class MaximumProductOfSplittedBinaryTree
+1 error
+2022.12.11 00:03:19 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:03:19 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:03:20 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java:71: error: cannot find symbol
+        System.out.println(maxProduct(root));
+                                      ^
+  symbol:   variable root
+  location: class MaximumProductOfSplittedBinaryTree
+1 error
+2022.12.11 00:03:29 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:03:29 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:03:30 WARN  no build target for: D:\Vinay Courses\All Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree\MaximumProductOfSplittedBinaryTree.java
+2022.12.11 00:03:30 WARN  Running javac-semanticdb failed for file:///D:/Vinay%20Courses/All%20Practice/DSA/LeetCode/5DailyPrograms_22_Dec/BinaryTree/MaximumProductOfSplittedBinaryTree.java. Output:
+semanticdb-javac: unknown flag 'Courses\All'
+
+semanticdb-javac: unknown flag 'Practice\DSA\LeetCode\5DailyPrograms_22_Dec\BinaryTree'
+
+2022.12.11 00:12:32 INFO  shutting down Metals
+2022.12.11 19:17:30 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Vinay Courses\All Practice\.metals\lsp.trace.json or C:\Users\vkver\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.11 19:17:31 INFO  logging to file D:\Vinay Courses\All Practice\.metals\metals.log
+2022.12.11 19:17:31 INFO  Started: Metals version 0.11.9 in workspace 'D:\Vinay Courses\All Practice' for client Visual Studio Code 1.74.0.
+2022.12.11 19:17:34 INFO  time: initialize in 2.73s
