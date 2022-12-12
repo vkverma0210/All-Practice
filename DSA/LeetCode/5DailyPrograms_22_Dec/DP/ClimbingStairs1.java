@@ -17,12 +17,12 @@ public class ClimbingStairs1 {
 
         return currentStep;
     }
-    
+
     public static void main(String[] args) {
         Scanner scr = new Scanner(System.in);
         int n = scr.nextInt();
-    
-        System.out.println(climbStairs( n));
+
+        System.out.println(climbStairs(n));
         scr.close();
     }
 }
