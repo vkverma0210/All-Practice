@@ -5,7 +5,7 @@ public class MaxPointsOnaLine {
         int n = points.length;
 
         if (n <= 2)
-            return 2;
+            return n;
 
         int ans = 2;
 
